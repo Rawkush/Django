@@ -1,0 +1,20 @@
+body{
+  background: url(https://vignette.wikia.nocookie.net/naruto/images/d/dc/Naruto%27s_Sage_Mode.png/revision/latest?cb=20150124180545);
+}
+
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+
+  background-color: black;
+}

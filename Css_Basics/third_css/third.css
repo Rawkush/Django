@@ -1,0 +1,32 @@
+/* .className{
+
+
+}
+ */
+
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color: brown;
+}
+
+#singleDout{
+  color: green;
+}
+
+
+h3 + ul{
+  border:s 4px dotted purple;
+}
+
+li a{
+  color: red;
+}
+
+
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}
